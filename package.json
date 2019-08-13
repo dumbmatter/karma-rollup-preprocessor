@@ -50,7 +50,7 @@
     "rimraf": "^2.6.1",
     "rollup": "^1.0.0",
     "rollup-plugin-babel": "^4.0.1",
-    "semantic-release": "^15.7.1",
+    "semantic-release": "^15.13.21",
     "sinon": "^7.1.1",
     "temp-dir": "^1.0.0",
     "tempy": "^0.2.0",
